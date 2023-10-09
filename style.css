@@ -1,0 +1,43 @@
+body{
+	margin-left: 350px;
+	background-color: ghostwhite;
+}
+.container{
+	width: 30em;
+	height: 36em;
+	background-color: sandybrown;
+	}
+	.container2{
+	width: 30em;
+	height: 36em;
+	display: flex;
+	padding:10px;
+
+	}
+	.cont1{
+		width:10em;
+		height: 26em;
+		background-color: skyblue;
+
+	}
+	.cont2{
+		width:20em;
+		height:26em;
+		background-color: rosybrown;
+		
+	}
+
+h1{
+	padding: 7px;
+	text-align: center;
+	color: seagreen;
+}
+h2{
+	text-align: center;
+
+	
+}
+form{
+	padding: 15px;
+	margin-bottom: 15px;
+}
